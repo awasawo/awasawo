@@ -5,7 +5,7 @@
 - 📫 How to reach me : <br />
      Email &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : adrianbayubagaskara@gmail.com <br />
      Twitter & IG &nbsp;: @adrianwo <br />
-     LinkedIn   &nbsp;&nbsp;&nbsp;&nbsp;  : https://linkedin.com/adrianbayu <br />
+     LinkedIn   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  : https://linkedin.com/adrianbayu <br />
 
 <!---
 awasawo/awasawo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
